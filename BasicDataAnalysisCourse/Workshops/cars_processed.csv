@@ -1,4 +1,4 @@
-Make,Model,Year,Style,Distance,Engine,Fuel_type,AutoTransmission,Price,Age,km_year
+Make,Model,Year,Style,Distance,Engine_capacity(cm3),Fuel_type,AutoTransmission,Price(euro),Age,km_year
 Toyota,Prius,2011,Hatchback,195000.0,1800.0,Hybrid,True,7750.0,11,17727.272727272728
 Renault,Grand Scenic,2014,Universal,135000.0,1500.0,Diesel,False,8550.0,8,16875.0
 Renault,Laguna,2012,Universal,110000.0,1500.0,Diesel,False,6550.0,10,11000.0
